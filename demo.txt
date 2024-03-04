@@ -9,3 +9,13 @@ where u neeed to store this file/folder...
 
 git fetch -v: this command is used to find out where to download the Repositiory
 
+git add .: This will push my files to staging area
+where files cannot' be edited..
+
+git commit -m "message inside the double quotes" :
+This command tells us that we need to store this in local Repositiory
+
+git branch -M main: This command is used to change from master to main
+
+git push origin main: This command pushes the code from the local to cloud 
+Repositiory
